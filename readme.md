@@ -1,3 +1,37 @@
+# BUYME test
+
+This Todo list is built with Ember js for frontend and Laravel 4.2 for backend.
+
+## Features
+
+* Create task.
+* Delete Task
+* Update Task.
+
+
+## How
+
+1. Composer update.
+2. Download all the files in localohost folder.
+3. Run in Localhost (Uwamp, Xampp).
+
+
+
+
+## Thanks
+
+School Management was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies.
+
+
+## License
+
+Copyright © 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see LICENSE for details.
+
+
+
+---
+
+
 ## Laravel PHP Framework.
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
