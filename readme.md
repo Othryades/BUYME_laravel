@@ -20,7 +20,7 @@ This Todo list is built with Ember js for frontend and Laravel 4.2 for backend.
 
 ## Thanks
 
-School Management was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies.
+This Todo was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies.
 
 
 ## License
