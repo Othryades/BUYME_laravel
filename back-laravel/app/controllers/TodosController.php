@@ -1,5 +1,4 @@
 <?php
-use App\Models\todos;
 
 class TodosController extends \BaseController {
 
@@ -10,10 +9,7 @@ class TodosController extends \BaseController {
 	 */
 	public function index()
 	{
-		return Response::json(Todos::all());
-
-//        $todos = todos::all();
-//        return $todos;
+		return Response::json(Todo::all());
 	}
 
 	/**

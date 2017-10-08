@@ -10,8 +10,6 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
-use Illuminate\Support\Facades\DB;
-use App\Models\todos;
 
 Route::get('/', function()
 {
@@ -20,10 +18,7 @@ Route::get('/', function()
 
 Route::get('tes', function()
 {
-    $todos = DB::select("SELECT * FROM `todos`");
-    return $todos;
+	print_r(Todo::all());
 });
 
 Route::resource('todos', 'TodosController');
-
-
