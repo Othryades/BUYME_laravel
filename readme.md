@@ -5,8 +5,8 @@ This Todo list is built with Ember js for frontend and Laravel 4.2 for backend.
 ## Features
 
 * Create task.
-* Delete Task
-* Update Task.
+* Delete task
+* Update task.
 
 
 ## How
