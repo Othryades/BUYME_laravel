@@ -4,6 +4,7 @@ Minimal implementation of an Ember Data Adapter to support my backend
 
 DS.MyAdapter = DS.RESTAdapter.extend({
 
+
   // called once when app start
   init: function () {
     // TODO
