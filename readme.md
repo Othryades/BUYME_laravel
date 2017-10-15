@@ -1,10 +1,10 @@
 # BUYME test
 
-This Todo list is built with Ember js for frontend and Laravel 4.2 for backend.
+This Todo list is built with Ember js for frontend and Laravel 4 for backend.
 
 ## Features
 
-* Create task.
+* Show task stored in db.
 * Delete task
 * Update task.
 
