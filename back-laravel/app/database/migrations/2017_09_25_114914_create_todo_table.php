@@ -12,12 +12,11 @@ class CreateTodoTable extends Migration {
 	 */
 	public function up()
 	{
-		Schema::create('todo', function(Blueprint $table)
+		Schema::create('todos', function(Blueprint $table)
 		{
 			$table->increments('id');
-            $table->text('body');
-            $table->boolean('completed')->default(false);
-			$table->timestamps();
+            $table->text('title');
+            $table->boolean('isCompleted')->default(false);
 		});
 	}
 
@@ -28,7 +27,7 @@ class CreateTodoTable extends Migration {
 	 */
 	public function down()
 	{
-		Schema::drop('todo');
+		Schema::drop('todos');
 	}
 
 }

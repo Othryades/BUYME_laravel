@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'db_test_moris_iarossi',
+			'database'  => 'db_test_moris',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
