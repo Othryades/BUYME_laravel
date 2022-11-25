@@ -25,7 +25,7 @@ This Todo was possible thanks to other people's hard work. Thank you so much to 
 
 ## License
 
-Copyright © 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see LICENSE for details.
+Copyright Â© 2015-2017 Othryades. Released under the MIT License, see LICENSE for details.
 
 
 
